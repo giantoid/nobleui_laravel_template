@@ -1,0 +1,42 @@
+
+*** CHANGE LOG ***
+
+v1.0.0 (6 December 2019)
+- Initial Release
+
+v1.0.1 (8 February 2020)
+- Bug fix
+
+v1.1 (25 April 2020)
+- Updated Laravel version to 7
+- Removed laravelcollective/html package
+- Updated Bootstrap version to 4.4.1
+- Updated all npm outdated plugins
+- Design improvements
+- Bug fixes
+
+v1.2 (28 April 2020)
+- Added Horizontal-menu-dark demo
+
+v1.3 (10 January 2021)
+- Updated Laravel version to 8
+- Updated Bootstrap version to 4.5.3
+- Updated all npm outdated plugins
+- Minor Bug fixes
+
+
+
+v2.0 (5 October 2021)
+- Updated Bootstrap version to v5
+- Updated all npm outdated plugins
+- Improved RTL layout
+- Added RTL support for all demos
+- Bug fixes
+- Design improvements
+
+v2.1 (18 April 2022)
+- Updated Laravel version to 9
+- Added SortableJs plugin
+- Updated all npm outdated plugins
+- Minor Bug fixes
+- Design improvements
